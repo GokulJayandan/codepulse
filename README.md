@@ -8,4 +8,4 @@ maps requirements to commits, and detects knowledge risks.
 - Developer impact scoring
 - Requirement-to-commit mapping
 - Knowledge risk detection
-- simulator
+- autonomous interventions
