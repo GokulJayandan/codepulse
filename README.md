@@ -1,6 +1,6 @@
 # CodePulse
 
-AI-powered developer intelligence platform that analyzes GitHub repositories,
+developer intelligence platform that analyzes GitHub repositories,
 maps requirements to commits, and detects knowledge risks.
 
 ## Features
